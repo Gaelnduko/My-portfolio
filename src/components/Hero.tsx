@@ -11,7 +11,7 @@ const Hero = () => {
         <div className="text-center space-y-8 animate-fade-in">
           <div className="space-y-4">
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight">
-              Hi, I'm <span className="gradient-text">Your Name</span>
+              Hi, I'm <span className="gradient-text">Gael Nduko</span>
             </h1>
             <h2 className="text-2xl md:text-3xl text-muted-foreground font-medium">
               Full-Stack Developer | JavaScript & Python
