@@ -26,16 +26,17 @@ const projects = [
   github: "https://github.com/yourusername/safiri-shield",
 }
 ,
-  {
-    title: "AI Content Generator",
-    description: "AI-powered content generation tool using GPT-4 API for creating marketing copy and blog posts.",
-    problem: "Content creators spent hours on repetitive writing tasks",
-    solution: "Integrated GPT-4 API with custom prompts for various content types",
-    tech: ["Python", "Django", "OpenAI API", "React", "Redis"],
-    image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&auto=format&fit=crop",
-    demo: "https://demo.example.com",
-    github: "https://github.com",
-  },
+ {
+  title: "Brew Mate",
+  description: "A social and discovery app for coffee and tea enthusiasts to explore new brews, share reviews, and connect with fellow aficionados.",
+  problem: "Coffee and tea lovers lacked a platform to discover local brews, track favourites, and connect with like-minded people.",
+  solution: "Built a community-driven platform with personalized recommendations, interactive reviews, and a map to find nearby cafes and specialty shops.",
+  tech: ["React", "TypeScript", "Firebase", "Tailwind CSS", "Mapbox"],
+  image: "https://images.unsplash.com/photo-1510626176961-4b53286dfe05?w=800&auto=format&fit=crop",
+  demo: "https://brew-mate-demo.example.com",
+  github: "https://gaelnduko.github.io/Brew-mate/",
+}
+,
 ];
 
 const Projects = () => {
