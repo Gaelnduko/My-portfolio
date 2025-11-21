@@ -32,7 +32,7 @@ const projects = [
   problem: "Coffee and tea lovers lacked a platform to discover local brews, track favourites, and connect with like-minded people.",
   solution: "Built a community-driven platform with personalized recommendations, interactive reviews, and a map to find nearby cafes and specialty shops.",
   tech: ["React", "TypeScript", "Firebase", "Tailwind CSS", "Mapbox"],
-  image: "https://images.unsplash.com/photo-1510626176961-4b53286dfe05?w=800&auto=format&fit=crop",
+  image: "https://i.pinimg.com/1200x/e4/54/95/e45495e589c01e6d29f4fd2705e9e925.jpg",
   demo: "https://gaelnduko.github.io/Brew-mate/",
   github: "https://gaelnduko.github.io/Brew-mate/",
 }
