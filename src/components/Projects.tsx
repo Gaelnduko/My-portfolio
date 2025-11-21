@@ -4,26 +4,28 @@ import { ExternalLink, Github } from "lucide-react";
 import { Badge } from "@/components/ui/badge";
 
 const projects = [
+ {
+  title: "Farm Connect Platform",
+  description: "A full-stack agricultural marketplace connecting local farmers with nearby consumers for fresh produce, fair prices, and direct trade.",
+  problem: "Local farmers lacked a reliable online platform to sell directly to consumers, leading to low visibility and unfair middle-man pricing.",
+  solution: "Built a scalable farm-to-consumer platform with real-time product listings, location-based search, farmer profiles, and secure orders.",
+  tech: ["React", "Node.js", "PostgreSQL", "Firebase Auth", "Mapbox"],
+  image: "https://images.unsplash.com/photo-1524592094714-0f0654e20314?w=800&auto=format&fit=crop",
+  demo: "https://gaelnduko.github.io/FarmconnectKE/",
+  github: "https://gaelnduko.github.io/FarmconnectKE/",
+}
+,
   {
-    title: "E-Commerce Platform",
-    description: "A full-stack e-commerce solution with payment integration, inventory management, and user authentication.",
-    problem: "Small businesses needed an affordable way to sell online",
-    solution: "Built a scalable platform with Stripe integration and real-time inventory",
-    tech: ["React", "Node.js", "PostgreSQL", "Stripe", "AWS"],
-    image: "https://images.unsplash.com/photo-1557821552-17105176677c?w=800&auto=format&fit=crop",
-    demo: "https://demo.example.com",
-    github: "https://github.com",
-  },
-  {
-    title: "Task Management App",
-    description: "Collaborative task management tool with real-time updates, team workspaces, and advanced filtering.",
-    problem: "Teams struggled to coordinate tasks across different time zones",
-    solution: "Created a real-time collaborative platform with WebSocket integration",
-    tech: ["Next.js", "TypeScript", "Firebase", "Tailwind CSS"],
-    image: "https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&auto=format&fit=crop",
-    demo: "https://demo.example.com",
-    github: "https://github.com",
-  },
+  title: "SafiriShield",
+  description: "An intelligent travel-safety companion that provides real-time safety alerts, cultural guidance, city safety scores, and AI-powered risk assistance for travellers.",
+  problem: "Travellers often lack reliable, country-specific safety insights and cultural guidance, leading to avoidable risks and misunderstandings in unfamiliar places.",
+  solution: "Built a smart travel-safety platform with real-time alerts, location-based risk assessment, cultural dos & don’ts, and an AI assistant to help travellers make safe decisions.",
+  tech: ["Next.js", "TypeScript", "Firebase", "Tailwind CSS", "Mapbox"],
+  image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop",
+  demo: "https://safirishield-demo.example.com",
+  github: "https://github.com/yourusername/safiri-shield",
+}
+,
   {
     title: "AI Content Generator",
     description: "AI-powered content generation tool using GPT-4 API for creating marketing copy and blog posts.",
