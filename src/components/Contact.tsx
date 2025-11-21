@@ -103,7 +103,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent className="space-y-4">
                 <a
-                  href="mailto:your.email@example.com"
+                  href="gailnduko1@gmail.com"
                   className="flex items-center gap-3 p-3 rounded-lg bg-secondary hover:bg-card-hover transition-colors group"
                 >
                   <Mail className="h-5 w-5 text-primary" />
