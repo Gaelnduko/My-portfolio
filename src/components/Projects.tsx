@@ -10,7 +10,7 @@ const projects = [
   problem: "Local farmers lacked a reliable online platform to sell directly to consumers, leading to low visibility and unfair middle-man pricing.",
   solution: "Built a scalable farm-to-consumer platform with real-time product listings, location-based search, farmer profiles, and secure orders.",
   tech: ["React", "Node.js", "PostgreSQL", "Firebase Auth", "Mapbox"],
-  image: "https://i.pinimg.com/736x/ef/98/30/ef9830de901cf68c1c0330955320ceda.jpg",
+  image: "https://i.pinimg.com/1200x/0b/7a/0b/0b7a0b21eb7e6aedb6734c896143f986.jpg",
   demo: "https://gaelnduko.github.io/FarmconnectKE/",
   github: "https://gaelnduko.github.io/FarmconnectKE/",
 }
