@@ -22,8 +22,8 @@ const projects = [
   solution: "Built a smart travel-safety platform with real-time alerts, location-based risk assessment, cultural dos & don’ts, and an AI assistant to help travellers make safe decisions.",
   tech: ["Next.js", "TypeScript", "Firebase", "Tailwind CSS", "Mapbox"],
   image: "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=800&auto=format&fit=crop",
-  demo: "https://safirishield-demo.example.com",
-  github: "https://github.com/yourusername/safiri-shield",
+  demo: "https://safari-shield-aeoh27txn-gaeltuby09-4091s-projects.vercel.app",
+  github: "https://safari-shield-aeoh27txn-gaeltuby09-4091s-projects.vercel.app",
 }
 ,
  {
